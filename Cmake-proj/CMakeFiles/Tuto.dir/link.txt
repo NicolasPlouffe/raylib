@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Tuto.dir/src/main.cpp.o CMakeFiles/Tuto.dir/src/program.cpp.o -o Tuto   -L/home/nico/Documents/Dev/Perso/Cmake-proj/include 
