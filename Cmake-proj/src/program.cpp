@@ -1,4 +1,4 @@
-#include "../include/program.h"
+#include "program.h"
 
 void startProgram() {
 

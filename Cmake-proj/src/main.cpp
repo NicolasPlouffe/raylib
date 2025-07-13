@@ -1,5 +1,5 @@
 #include<iostream>
-#include "../include/program.h"
+#include "program.h"
 int main() {
 	
     startProgram();
